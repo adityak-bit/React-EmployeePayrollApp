@@ -1,0 +1,91 @@
+{
+  "employee": [
+    {
+      "name": "Aman",
+      "department": [
+        "HR",
+        "Finance"
+      ],
+      "gender": "female",
+      "salary": "9400",
+      "startDate": "18 Jan 2020",
+      "notes": "aman added",
+      "id": "1604589594373",
+      "profile": "../../assets/profile-images/Ellipse 1.png"
+    },
+    {
+      "name": "Aman",
+      "department": [
+        "HR",
+        "Finance"
+      ],
+      "gender": "female",
+      "salary": "9400",
+      "startDate": "18 Jan 2020",
+      "notes": "aman added",
+      "id": "7ZX-Y5S",
+      "profile": "../../assets/profile-images/Ellipse 1.png"
+    },
+    {
+      "name": "Aditya Kumar",
+      "department": [
+        "Finance"
+      ],
+      "gender": "female",
+      "salary": "8000",
+      "startDate": "1 Jan 2020",
+      "notes": "aditya kumar is back",
+      "id": "UhfhUg8",
+      "profile": "../../assets/profile-images/Ellipse -3.png"
+    },
+    {
+      "name": "Aditi Kumari",
+      "department": [
+        "Engineer",
+        "HR"
+      ],
+      "gender": "female",
+      "salary": "8900",
+      "startDate": "1 Jan 2020",
+      "notes": "test",
+      "id": "4oZensY",
+      "profile": "../../assets/profile-images/Ellipse -7.png"
+    },
+    {
+      "name": "Aditya Kumar Thakur",
+      "department": [
+        "Others"
+      ],
+      "gender": "male",
+      "salary": "9400",
+      "startDate": "1 Jan 2020",
+      "notes": "CEO",
+      "id": "5C8c0lt",
+      "profile": "../../assets/profile-images/Ellipse -8.png"
+    },
+    {
+      "name": "Neeraj",
+      "department": [
+        "Engineer"
+      ],
+      "gender": "male",
+      "salary": "6200",
+      "startDate": "1 Jan 2020",
+      "notes": "neeraj added",
+      "id": "XG43PId",
+      "profile": "../../assets/profile-images/Ellipse -8.png"
+    },
+    {
+      "name": "Aman",
+      "department": [
+        "Finance"
+      ],
+      "gender": "female",
+      "salary": "6600",
+      "startDate": "1 Jan 2020",
+      "notes": "test",
+      "id": "hp7AZTK",
+      "profile": "../../assets/profile-images/Ellipse -3.png"
+    }
+  ]
+}
